@@ -1,0 +1,62 @@
+{
+    "boxs": [
+        {
+            "id": 1,
+            "name": "Scrambled Eggs with ham",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 9,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs with ham",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 9,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 3,
+            "name": "Scrambled Eggs with ham",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 11,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 4,
+            "name": "Scrambled Eggs with ham",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 11,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 5,
+            "name": "Eggs Benedict",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 6,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 6,
+            "name": "Eggs Benedict",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 6,
+            "inFavorite": false,
+            "inBasket": null
+        },
+        {
+            "id": 7,
+            "name": "Soft-Boiled Organic Egg",
+            "description": "with wild mushrooms and asparagus ................",
+            "price": 8,
+            "inFavorite": false,
+            "inBasket": null
+        }
+    ],
+    "favorites": [],
+    "basket": []
+}
